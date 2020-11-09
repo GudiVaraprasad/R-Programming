@@ -80,12 +80,7 @@ l1 = list(2, 1, 3, 4)
 l2 = list(5, 7, 12, 6, -8)
 l3 = append(l1, l2)
 # print(l3)
-if(length(l3)==11)
-{
-  print("TRUE")
-} else{
-  print("FALSE")
-}
+length(l3)==11
 #----------------------------------------------------
 
 #4
